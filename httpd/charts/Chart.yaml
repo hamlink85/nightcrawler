@@ -1,0 +1,5 @@
+apiVersion: v2
+name: httpd
+description: NGINX is a free, open-source, high-performance HTTP server and reverse proxy.
+version: 1.0.0
+appVersion: 1.25.5-alpine-slim

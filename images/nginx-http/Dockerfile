@@ -11,3 +11,4 @@ RUN apk update && \
 
 WORKDIR /nginx/files
 COPY nginx.conf /etc/nginx
+COPY test.txt /nginx/files
